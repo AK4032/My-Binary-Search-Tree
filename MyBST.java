@@ -1,8 +1,6 @@
 /**
  * Name: Adi Krishnamoorthy
- * ID: A16742939
- * Email: akrishnamoorthy@ucsd.edu
- * References: CSE 12 Lectures & Discussions, Zybooks, Past PAs
+ * References: CSE 12 Lectures & Discussions
  * 
  * This file, MyBST, includes my implementation of the Binary Search
  * tree class. It includes a main class and several smaller methods
