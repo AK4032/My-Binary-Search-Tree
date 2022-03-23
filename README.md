@@ -1,2 +1,2 @@
 # My-Binary-Search-Tree
-My implementation of the Binary Search Tree Data Structure
+My implementation of the Binary Search Tree Data Structure. It contains a main class representing the Binary Search Tree, and a subclass representing each node in the tree. The subclass contains the key and value of each node, as well as references to its parent node and it's left and right child nodes. It also contains a successor method to show which node would come next if inOrder traversal was being performed in the tree. The main BST class contains references to the root node and its size, as well as methods for adding nodes, removing nodes, searching for nodes, and performing inOrder traversal of the Tree.
